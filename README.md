@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Yajur Sehra, Recent MSBA graduate from UC Davis, a passionate Data Analyst and Data Science enthusiast based in San Francisco, CA. My journey in data analytics and business intelligence has taken me through diverse industries, where I've leveraged data to drive strategic decisions and optimize processes.
+I'm Yajur Sehra, Recent MS in Business Analytics graduate from UC Davis, a passionate Data Analyst and Data Science enthusiast based in San Francisco, CA. My journey in data analytics and business intelligence has taken me through diverse industries, where I've leveraged data to drive strategic decisions and optimize processes.
 
 ## 🔗 Skills
 
